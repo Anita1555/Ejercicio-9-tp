@@ -16,7 +16,6 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
   <tr>
      <td>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/2b99dc22-dc67-4777-a1f6-df986d67d78a" />
           <p style="margin-top: 1rem;"><strobg>Rivarola ana belen</strong></p>
           <p>Team Leader</p>
         <a href="https://github.com/AGREGAR-LINK" target="_blank">
@@ -29,7 +28,6 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
     </td>
     <td>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/fed196a4-a9c1-44b8-962c-cc706d7562da" />
           <p style="margin-top: 1rem;"><strong>Andres Grijalba</strong></p>
           <p>FullStack Developer</p>
         <a href="https://www.linkedin.com/in/andr%C3%A9s-grijalba-fern%C3%A1ndez-2088a92ba/" target="_blank">
@@ -38,7 +36,6 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
     </td>
     <td>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/3bfb8d46-ef2b-4c25-a9cd-b3444c53b2c4" />
           <p style="margin-top: 1rem;"><strong>Cristian Dal Piva</strong></p>
           <p>FullStack Developer</p>
         <a href="https://www.linkedin.com/in/cristiandalpiva" target="_blank">
@@ -47,7 +44,6 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
     </td>
     <td>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/8029fa17-9eef-43b2-a547-135e3b7eb3b0" />
           <p style="margin-top: 1rem;"><strong>Gustavo Arza</strong></p>
           <p>QA</p>
         <a href="https://www.linkedin.com/in/gustavoarza/" target="_blank">
@@ -57,24 +53,21 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
     </td>
     <td>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/ae504a77-ba37-41c4-bf8a-6ec11b87af27" />
           <p style="margin-top: 1rem;"><strong>Tomas Crespo</strong></p>
           <p>Backend Developer</p>
         <a href="https://www.linkedin.com/in/tomascresporico/" target="_blank">
         </a>
       </div>
     </td>
-  </tr>
       <div align="center">
-        <img width="110" src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/3bfb8d46-ef2b-4c25-a9cd-b3444c53b2c4" />
           <p style="margin-top: 1rem;"><strong>Veronica Eschenmoser</strong></p>
           <p>FullStack Developer</p>
-        <a href="https://www.linkedin.com/in/veronica-eschenmoser-152969241" target="_blank">
         <a href="https://www.linkedin.com/in/veronica-eschenmoser-152969241" target="_blank">
         </a>
       </div>
     </td>
     <td>
+  </tr>
 </table>
 
 ## Tecnologías
