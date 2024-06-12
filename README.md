@@ -87,10 +87,10 @@ Lista de tecnologías utilizadas en el proyecto
 
 
 ### Herramientas de Comunicación
-
+https://www.figma.com/design/OkzTqr1zds3DfGpSMSdhu8/S15-30-NoCode?node-id=1-42&t=x319TlJlgUr4K5yo-1
 
 ### Herramientas de Organización
-
+https://www.canva.com/design/DAGF_VKZXxk/0M9ufo-ChvWmO9WAHwmUbQ/view?utm_content=DAGF_VKZXxk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Enlaces del Proyecto
 Enlaces relevantes al repositorio en GitHub, al sitio web (si corresponde) y otros enlaces importantes.
@@ -111,3 +111,14 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la Licencia 
+
+
+https://www.linkedin.com/in/andr%C3%A9s-grijalba-fern%C3%A1ndez-2088a92ba/
+
+https://www.linkedin.com/in/cristiandalpiva
+
+https://www.linkedin.com/in/gustavoarza/
+
+https://www.linkedin.com/in/tomascresporico/
+
+https://www.linkedin.com/in/veronica-eschenmoser-152969241
