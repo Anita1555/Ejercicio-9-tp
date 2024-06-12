@@ -19,10 +19,8 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
           <p style="margin-top: 1rem;"><strobg>Rivarola ana belen</strong></p>
           <p>Team Leader</p>
         <a href="https://github.com/AGREGAR-LINK" target="_blank">
-          <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/88b3c6e1-ae34-4001-8210-9a2d22e66e33"/>
         </a>
         <a href="https://www.linkedin.com/in/guillermo-divan" target="_blank">
-          <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
         </a>
       </div>
     </td>
@@ -45,9 +43,7 @@ Este sitio web ofrece a los usuarios la posibilidad de obtener una visión insta
     <td>
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Gustavo Arza</strong></p>
-          <p>QA</p>
         <a href="https://www.linkedin.com/in/gustavoarza/" target="_blank">
-          <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
         </a>
       </div>
     </td>
